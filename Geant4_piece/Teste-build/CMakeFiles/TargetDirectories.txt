@@ -1,0 +1,7 @@
+/home/christian/Documentos/Geant4CASA/Teste_inicial/Teste-build/CMakeFiles/install/strip.dir
+/home/christian/Documentos/Geant4CASA/Teste_inicial/Teste-build/CMakeFiles/edit_cache.dir
+/home/christian/Documentos/Geant4CASA/Teste_inicial/Teste-build/CMakeFiles/Teste.dir
+/home/christian/Documentos/Geant4CASA/Teste_inicial/Teste-build/CMakeFiles/rebuild_cache.dir
+/home/christian/Documentos/Geant4CASA/Teste_inicial/Teste-build/CMakeFiles/list_install_components.dir
+/home/christian/Documentos/Geant4CASA/Teste_inicial/Teste-build/CMakeFiles/install/local.dir
+/home/christian/Documentos/Geant4CASA/Teste_inicial/Teste-build/CMakeFiles/install.dir
